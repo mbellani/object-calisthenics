@@ -1,6 +1,6 @@
 package com.theladders.job
 
-import com.theladders.employer.Employer
+import com.theladders.it.Employer
 
 import scala.collection.mutable.ArrayBuffer
 import com.theladders.common.checkNotNull

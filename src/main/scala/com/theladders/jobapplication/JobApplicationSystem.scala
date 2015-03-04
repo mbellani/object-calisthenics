@@ -1,6 +1,6 @@
 package com.theladders.jobapplication
 
-import com.theladders.employer.Employer
+import com.theladders.it.Employer
 import com.theladders.job._
 
 abstract class JobApplicationSystem {

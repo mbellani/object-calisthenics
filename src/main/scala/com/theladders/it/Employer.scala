@@ -1,4 +1,4 @@
-package com.theladders.employer
+package com.theladders.it
 
 import com.theladders.common.Name
 import com.theladders.job._

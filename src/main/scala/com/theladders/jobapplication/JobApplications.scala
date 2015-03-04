@@ -1,7 +1,7 @@
 package com.theladders.jobapplication
 
 import com.theladders.common._
-import com.theladders.employer.Employer
+import com.theladders.it.Employer
 import com.theladders.job.Job
 import com.theladders.jobseeker.JobSeeker
 import org.joda.time.LocalDate

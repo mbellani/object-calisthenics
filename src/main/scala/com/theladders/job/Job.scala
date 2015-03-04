@@ -1,7 +1,7 @@
 package com.theladders.job
 
 import com.theladders.common._
-import com.theladders.employer.Employer
+import com.theladders.it.Employer
 import com.theladders.reports.{Row, Field}
 
 class Job(protected val jobDetails: JobDetails, protected val postedBy: Employer) extends DefaultResumeRule {
